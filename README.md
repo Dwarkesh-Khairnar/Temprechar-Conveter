@@ -5,3 +5,6 @@
  - css
  - JavaScript
  - bootstrap 
+
+## deployment 
+ + vercel
